@@ -9,7 +9,7 @@ const styles = {
     height: '72px',
     margin: '4px 12px 4px 12px',
     background: 'rgba(255,255,255,.10)',
-    color: '#ffffff',
+    color: '#fefefe',
   }
 }
 
