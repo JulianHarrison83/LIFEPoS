@@ -3,12 +3,6 @@ import Grid from '@material-ui/core/Grid';
 import Digit from '../Digit/index';
 
 class Calculator extends Component {
-  constructor() {
-    super(props)
-      this.state = {
-        operations: [],
-    }
-  }
 
   render() {
     return (
